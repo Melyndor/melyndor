@@ -1,25 +1,34 @@
 <a href="https://www.linkedin.com/in/milicia-lorenzo/"><img src="https://github.com/Meelicia/meelicia/blob/main/personal_memoji.png?raw=true" align="right" height="275" /></a>
 
-### 👋 Hey there, I'm **Lorenzo Milicia**
+# 👋 Hey, I'm Lorenzo Milicia
 
-💻 I'm a **Software Engineer** with a strong passion for programming.  
-🚀 Lately, I’ve been diving deeper into the **open-source world** — not just to learn, but also to give back and support wherever I can.  
-🧠 I love solving challenging problems and always strive to find the **most effective solution**, no matter how tough the task.
+Software Engineer with 7+ years building web and mobile products
+across enterprise, agency, and startup environments.
+
+I work mainly with **React**, **Next.js**, **TypeScript** and 
+**React Native** — from architecture to deployment.
+
+Currently at **Plenitude** (Digital Innovation team), working on
+internal portals, a company-wide Design System, and AI-integrated
+workflows on cloud infrastructure.
+
+In parallel, available for **freelance projects** — web & mobile.  
+💼 [milicia.dev](https://milicia.dev)
 
 ---
 
-### 🌿 A Bit About Me
+### 🛠 Stack
 
-🏞️ When I’m not coding, you’ll likely find me **exploring nature or hiking in the mountains**.  
-🤖 I also enjoy **experimenting with educational robotics** — helping young minds discover the fun and creativity behind tech is something I truly care about!
+`React` `Next.js` `TypeScript` `React Native` `Vue/Nuxt`  
+`GraphQL` `REST` `Django` `Docker` `Tailwind CSS`
 
 ---
 
-### 🤝 Let’s Connect & Grow Together
+### 🌿 A bit about me
 
-Whether it's about code, open source, or just a shared love for the outdoors — I'm always happy to connect and collaborate!
-
-> *"Little developers make great things!"* 🍀
+When I'm not coding I'm usually in the mountains.  
+I also run robotics courses for kids — because little developers 
+make great things. 🌿
 
 <br>
 
