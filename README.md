@@ -1,6 +1,6 @@
-<a href="https://www.linkedin.com/in/milicia-lorenzo/"><img src="https://github.com/Meelicia/meelicia/blob/main/personal_memoji.png?raw=true" align="right" height="275" /></a>
-
 # 👋 Hey, I'm Lorenzo Milicia
+
+<a href="https://www.linkedin.com/in/milicia-lorenzo/"><img src="https://github.com/Meelicia/meelicia/blob/main/personal_memoji.png?raw=true" align="right" height="275" /></a>
 
 Software Engineer with 7+ years building web and mobile products
 across enterprise, agency, and startup environments.
@@ -12,15 +12,15 @@ Currently at **Plenitude** (Digital Innovation team), working on
 internal portals, a company-wide Design System, and AI-integrated
 workflows on cloud infrastructure.
 
-In parallel, available for **freelance projects** — web & mobile.  
+In parallel, available for **freelance projects** — web & mobile.
+
 💼 [milicia.dev](https://milicia.dev)
 
 ---
 
 ### 🛠 Stack
 
-`React` `Next.js` `TypeScript` `React Native` `Vue/Nuxt`  
-`GraphQL` `REST` `Django` `Docker` `Tailwind CSS`
+`React` `Next.js` `TypeScript` `React Native` `Vue/Nuxt` `GraphQL` `REST` `Django` `Docker` `Tailwind CSS`
 
 ---
 
